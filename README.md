@@ -54,6 +54,6 @@ Relevant coursework: Software Engineering, AI, Computer Graphics, Cloud Computin
 ## Links  
 - GitHub: https://github.com/rezanobakht1378  
 - LinkedIn: https://www.linkedin.com/in/reza-nobakht-91a961218/  
-- Portfolio / Website: [professormath.ir](https://professormath.ir/)  
+- Portfolio / Website: [EZano](https://www.linkedin.com/in/reza-nobakht-91a961218/)  
 
 *(Some projects are private; details available upon request.)*  
