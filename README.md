@@ -53,7 +53,15 @@ Relevant coursework: Software Engineering, AI, Computer Graphics, Cloud Computin
 
 ## Links  
 - GitHub: https://github.com/rezanobakht1378  
-- LinkedIn: https://www.linkedin.com/in/reza-nobakht-91a961218/  
+- LinkedIn: https://www.linkedin.com/in/reza-nobakht-91a961218/
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezanobakht1378\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezanobakht1378\&layout=compact\&theme=tokyonight)
+
+---
 - Portfolio / Website: [EZano](https://www.linkedin.com/in/reza-nobakht-91a961218/)  
 
 *(Some projects are private; details available upon request.)*  
