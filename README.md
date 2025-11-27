@@ -1,196 +1,59 @@
-# 👋 Hi, I'm UnkNowN_PRO (Reza Nobakht)
-
-🎮 Unity Developer | 🧠 Backend Engineer | 🌐 WebRTC & Real-Time Communication Specialist
-
----
-
-## 🧩 About Me
-
-I am a multi-disciplinary developer with strong experience in **game development, backend systems, and real-time communication architectures**. My work spans from immersive AR/VR applications in Unity to scalable backend systems using Django, Laravel, and FastAPI.
-
-I focus on:
-
-* Building **online and offline interactive systems**
-* Designing **real-time audio/video communication** with WebRTC & SFU
-* Developing reliable backend infrastructures for games and platforms
-* Creating optimized pipelines and CI/CD flows
+# Reza Nobakht  
+**Technical Team LEAD & Metaverse Developer**  
+GitHub: github.com/rezanobakht1378 | LinkedIn: linkedin.com/in/reza-nobakht-91a961218 | Email: rezanobakht1378@gmail.com  
 
 ---
 
-## 🛠️ Tech Stack
-
-### Backend & APIs
-
-* Laravel (PHP 7.4 / 8.2)
-* Django & Django REST Framework
-* FastAPI
-* Python, PHP
-* REST, WebSocket, JWT, Keycloak
-
-### Databases
-
-* PostgreSQL
-* MySQL
-* MongoDB
-
-### Game / AR / VR
-
-* Unity (C#)
-* Meta Quest 3
-* Vuforia
-* XR Management
-* ShaderLab, URP Shaders
-* A* Pathfinding & Navigation Systems
-
-### Realtime & Networking
-
-* WebRTC
-* Janus SFU
-* Coturn (TURN Server)
-* UDP / LAN Packet Protocols
-
-### DevOps & Infrastructure
-
-* Docker
-* Jenkins
-* CI/CD Pipelines
-* Linux Server Administration
-* MinIO Object Storage
+## Summary  
+Innovative developer and technologist with hands-on experience spanning the Metaverse (AR/VR/MR), Web & Backend engineering, and Artificial Intelligence. Skilled in building scalable digital platforms, real-time systems, and immersive XR experiences. Adept at collaborating in both public and private repositories, and have contributed to enterprise, research, and open-source projects. A lifelong learner committed to advancing the intersection of technology and user experience.
 
 ---
 
-## 🚀 Featured Public Projects
-
-### 🔊 WebRTC-Websocket-Unity-Prototype
-
-Real-time voice communication system using Unity + WebRTC + WebSocket with SFU architecture.
-
-* Live audio streaming
-* ICE candidate handling
-* Bandwidth and codec optimization
-
-### 🛍️ Online_Shop_Laravel
-
-A complete Laravel-based e-commerce platform.
-
-* Product management
-* Cart & order system
-* Payment-ready structure
-
-### 🗄️ Coturn
-
-TURN server configuration for real-time communication and NAT traversal.
-
-* WebRTC infrastructure enhancement
-* Secure relay configuration
-
-### 📦 MinIO
-
-Object storage setup for scalable file handling.
-
-* Suitable for LMS and large media systems
-
-### 🧪 device_simulator
-
-Simulation-based project for testing data flows and devices behavior.
+## Technical Skills  
+- **Programming:** PHP, Python, C#, C++, JavaScript, Groovy, ShaderLab, Shell  
+- **Frameworks / Engines:** Laravel, Django / DRF, Unity (AR/VR/MR), WebRTC, Jenkins (CI/CD)  
+- **Domains:** Metaverse / XR, Web & APIs, Real-Time Systems, Data Science & Machine Learning, DevOps & Automation  
+- **Tools:** Git, Docker, Jupyter, Chrome Extensions, CI/CD pipelines, Object Storage  
 
 ---
 
-## 🔍 Private Repositories – Technical Analysis
+## Key Projects & Highlights  
 
-### 1️⃣ AI_Predict_Patient (Jupyter Notebook)
+### Metaverse / AR / VR / MR  
+- **Unity_AR** — Interactive AR experiences for sports and health applications (Unity, ShaderLab)  
+- **Unity_MR** — Mixed-Reality experiments and immersive environments  
+- **WebRTC-Websocket-Unity-Prototype** — Real-time networking & multiplayer prototypes (Unity + WebRTC + WebSocket)  
+- **Random-Dot-Motion-Task** — Motion simulation in C#, suited for EEG-analysis and cognitive tasks  
+- **Private XR Projects** — Confidential enterprise/academic metaverse / AR / VR solutions  
 
-**Purpose:** Medical data prediction system
+### Web, Backend & DevOps  
+- **Online_Shop_Laravel** — Full e-commerce backend (PHP / Laravel)  
+- **CompetitionBackend** — Online competition management system (PHP)  
+- **RNX-Space-Genesis-Backend** — Python backend for a “space/genesis”-themed application  
+- **DevOps & Automation** — CI/CD pipelines, Docker setups, deployment & server automation  
 
-* ✅ Good use of data science stack
-* ⚠️ Lacks modularization & production pipeline
-* 💡 Recommendation:
-
-  * Convert notebooks into modular Python scripts
-  * Add model evaluation metrics & documentation
-
-### 2️⃣ RNX-Space-Genesis-Backend (Python)
-
-**Purpose:** Backend for a space-themed system
-
-* ✅ Strong architecture base
-* ⚠️ Needs API documentation & logging
-* 💡 Recommendation:
-
-  * Add Swagger/OpenAPI
-  * Implement role-based access
-
-### 3️⃣ CompetitionBackend (PHP)
-
-Online competition management system
-
-* ✅ Functional structure
-* ⚠️ Needs performance optimization
-* 💡 Recommendation:
-
-  * Refactor controllers
-  * Implement caching (Redis)
-
-### 4️⃣ Unity_AR & Unity_MR
-
-AR/VR Unity projects (Pregnancy sports & MR)
-
-* ✅ Advanced use of VR/AR stack
-* ⚠️ Needs scene optimization
-* 💡 Recommendation:
-
-  * Use object pooling
-  * Optimize lighting and draw calls
-
-### 5️⃣ Signal-Transport (C++)
-
-Custom packet-based LAN data transmission
-
-* ✅ Strong low-level networking skills
-* 💡 Recommendation:
-
-  * Add encryption layer
-  * Protocol documentation
-
-### 6️⃣ Random-Dot-Motion-Task
-
-Behavioral or cognitive experiment simulation
-
-* ✅ Great for academic or neuroscience-based projects
-* 💡 Add UI/UX improvements and performance metrics
+### AI, Data Science & Tools  
+- **AI_Predict_Patient** — ML models for patient-data prediction (Python / Jupyter)  
+- **Signal-Transport** (C++) — Custom LAN data transmission system  
+- **highlight-citation-extension** — Chrome extension for citation-management (JavaScript)  
+- **ci_functions** — Jenkins pipeline scripts for Django workflows  
 
 ---
 
-## 📊 GitHub Stats
+## Work Experience  
+Full Stack & XR Developer — Built and maintained web backends, AR/VR prototypes, and real-time multiplayer platforms for private companies and research labs. Automated deployments, CI/CD pipelines, and collaborated with cross-functional teams in enterprise settings.  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezanobakht1378\&show_icons=true\&theme=tokyonight)
+## Education  
+M.Sc., IUST — 2025  
+Relevant coursework: Software Engineering, AI, Computer Graphics, Cloud Computing  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezanobakht1378\&layout=compact\&theme=tokyonight)
+## Languages & Communication  
+- English (Intermediate)  
+- Persian (Native)  
 
----
+## Links  
+- GitHub: https://github.com/rezanobakht1378  
+- LinkedIn: https://www.linkedin.com/in/reza-nobakht-91a961218/  
+- Portfolio / Website: [professormath.ir](https://professormath.ir/)  
 
-## 📫 Contact
-
-* 🌐 Website: [https://professormath.ir/](https://professormath.ir/)
-* 📧 Email: [rezanobakht1378@gmail.com](mailto:rezanobakht1378@gmail.com)
-* 📱 Telegram: T.me/UnkNowN_PRO
-
----
-
-## 🧠 Current Focus
-
-* Online VR game for Meta Quest 3
-* Self-hosted social media platform
-* Scaling WebRTC SFU with custom backend
-* Advanced Unity MR systems
-
----
-
-## ✅ How to use this
-
-1. Create a public repo named: **rezanobakht1378**
-2. Add a file: **README.md**
-3. Paste this content inside it
-4. Push to GitHub
-
-Your profile will instantly transform into a professional developer CV 🚀
+*(Some projects are private; details available upon request.)*  
